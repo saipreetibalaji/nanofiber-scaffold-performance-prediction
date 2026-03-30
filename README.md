@@ -101,11 +101,9 @@ This bridges the gap between machine learning and practical biomedical scaffold 
 * Expand dataset for better generalization
 
 ---
-Done by -
-B Sai Preeti 
-Dishi Sharma
-Nehasree J
-Krithika
+## Done by -
+* B Sai Preeti 
+* Dishi Sharma
+* Nehasree J
+* Krithika
 
-Your Name
-(Add your GitHub / LinkedIn profile links here)
