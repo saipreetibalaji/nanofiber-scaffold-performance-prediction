@@ -92,12 +92,3 @@ This bridges the gap between machine learning and practical biomedical scaffold 
 * Prediction vs Actual comparisons
 
 ---
-
-## Future Work
-
-* Implement deep learning models for improved accuracy
-* Develop an optimization-based inverse design engine
-* Deploy as a web application (Streamlit/Flask)
-* Expand dataset for better generalization
-
----
